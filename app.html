@@ -5,16 +5,106 @@
   <title>Template</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="app.js"></script>
+
   </head>
 
   <body>
-      <div class="header" id="App-header">
+      <header>
+      <div  class="headr" id="App-header">
           
-          <h3>Content selection System</h3>
+          <h1>Content selection system</h1>
+      </div>
           <div class="customer_details">
                 <h5> Welcome YYY</h5>
             </div>
 
+       
+    </header>
+
+        <div class="article" id="artcle">
+            <button class="ccc" onclick="Infofunction()">Create Content Cycle</button>
         </div>
+        
+        <div id ="info1" class="dropdown">
+            
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Content Cycle
+            <span class="caret"></span></button>
+            <ul class="dropdown-menu" id="dropdown-menu-select">
+                    <li><a href="#">March</a></li>
+                    <li><a href="#">June</a></li>
+                    <li><a href="#">September</a></li>
+                    <li><a href="#">December</a></li>
+            </ul>
+        </div>
+
+        <div id ="info2" class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Airlines
+                    <span class="caret"></span></button>
+                    
+
+            <ul class="dropdown-menu" id="dropdown-menu-select">
+                    <li><a href="#">AGL</a></li>
+                    <li><a href="#">Rossiya</a></li>
+                    <li><a href="#">Lufthansa</a></li>
+                    <li><a href="#">Atlas</a></li>
+            </ul>
+        </div>
+
+        <button type="submit" id="form-submit">Go</button>
+
+        
+
+        <div class="tabs">
+                <button class="tablink" onclick="openPage('Movie', this, 'orange')">Movies</button>
+                <button class="tablink" onclick="openPage('Apps', this, 'cyan')">Apps</button>
+                <button class="tablink" onclick="openPage('Music', this, 'green')">Music</button>
+                <button class="tablink" onclick="openPage('Magazine', this, 'blue')">Magazine</button>
+        </div>
+
+        <div class="table">
+
+                <table id="table1" align="center">
+                        <thead>
+                
+                          <tr>
+                            <th>Movie Name-Eng</th>
+                            <th>Movie Name-Dan</th>
+                            <th>Movie Name-Glndic</th>
+                            <th>File Name</th>
+                            <th>Format</th>
+                            <th>Language-Eng</th>
+                            <th>Language-Dan</th>
+                            <th>Category</th>
+                            <th>Genre-Eng</th>
+                            <th>Genre-Dan</th>
+                            <th>Genre-Glndic</th>
+                            <th>Duration</th>
+                            <th>Rating</th>
+                            <th>Director</th>
+                            <th>Cast</th>
+                            <th>Synopsis_Eng</th>
+                            <th>Synopsis_Dan</th>
+                            <th>Synopsis_Glndic</th>
+                            
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <!-- <tr>
+                              <td><input type="checkbox" name="record"></td>
+                              <td>Peter Parker</td>
+                              <td>peterparker@mail.com</td>
+                            </tr> -->
+                
+                        </tbody>
+                      </table>
+        </div>
+        
   </body>
+  </html>

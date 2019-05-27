@@ -1,14 +1,91 @@
 body{
         font-family: Arial, Helvetica, sans-serif;
 }
+header{
+    background-color:black;
+    color: white;
+    height:200px;
+    
+    
+    }
 
-.header{
-    text-align:center;
+.headr{
+   display:inline-block;
+   border-top: 50px;
+   border-left: 50px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
+   
 
 }
 .customer_details{
     text-align:right;
+    padding:20px;
 
 }
+
+.article{
+    text-align: center;
+    
+}
+.ccc{
+    cursor:pointer;
+}
+#info1{
+    display: none;
+    
+    float:left;
+    height:100px;
+    margin-left:5px;
+}
+
+#info2{
+    display: none;
+   
+    float:left;
+    height:100px;
+    margin-left:20px;
+}
+#form-submit{
+    float:left;
+    margin-left: 50px;
+}
+
+.tabs{
+    display:none;
+}
+.table{
+    display:none;
+}
+#table1{
+    width: 100%;
+    border-spacing:10px;
+    border: 1px solid #555;
+}
+#table1, thead{
+    
+    width:100%;
+  }
+  #table1 th,td{
+    border: 1px solid #555;
+  }
+  
+  #table1 td{
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    width:2px;
+    height: 10px;
+     border: 1px solid #555;
+  }
+  #table1 tr{
+      width:100%;
+    height:20px;
+  }
+  
+  #table1 tbody{
+   height:10%;
+   width:40%;
+   
+  }
+  
