@@ -1,0 +1,352 @@
+@font-face {
+    font-family: 'Avenir Next';
+    src: url("http://www.yoursite.com/fonts/Avenir_Next.otf"); /* File to be stored at your site */
+    }
+
+
+body{
+        font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(194, 6, 6);
+    display:block;
+    position: fixed;
+    text-align: center;
+    height:21%;
+    width:100%;
+    top: 0;
+   
+    
+   
+}
+.logo{
+    left:0px;
+    position:fixed;
+
+}
+
+
+.heading{
+    
+    font-family: "Avenir Next" !important;
+    font-size: 40px;
+    color:white;
+    width:50%;
+    text-align:center;
+    position: relative;
+    display: inline-block;
+    top:40%;
+    /* width:1453px;
+    height:200px; */
+    
+    
+}
+
+.customer_details{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-align:center;
+    padding:20px;
+    right:0px;
+    position:fixed;
+    color:white;
+    top:8%;
+    
+    
+    /* width:200px;
+    height:200px; */
+    
+
+}
+
+
+.article{
+    text-align: center;
+    margin-top:12%;
+    
+}
+.ccc{
+    cursor:pointer;
+}
+#info1{
+    display: none;
+    width:130px;
+    float:left;
+    height:37.5px;
+    border-right:auto;
+    max-width: 130px;
+
+ 
+}
+
+#info2{
+   display:none;
+    width:130px;
+    height:37.5px;
+    float:left;
+   
+}
+
+
+#tab-list{
+    
+    width:100%;
+    display:none;
+    margin-top:20px;
+
+
+}
+.tablink{
+    /* margin-top:60px;
+    margin-left:0px;
+    color:blue;
+    padding:2px 10px; */
+    background-color: #555;
+  color: white;
+  float: left;
+  border:  1px solid #555;
+  outline: none;
+  cursor: pointer;
+  padding: 4px 6px;
+  font-size: 17px;
+  width: 16.65%;
+}
+.tablink:hover {
+    background-color: #777;
+  }
+ 
+#airlines{
+    
+    width:127px;
+}
+
+#form-submit{
+    /* display: none; */
+    
+    width:127px;
+    height:34px;
+    display: none;
+    
+    padding:  0px 10px;
+   
+}
+.tables{
+    max-width:1855px;
+    height:auto;
+    display:none;
+   
+}    
+/* //Styling for all tables // */
+
+#movies{
+    
+    width: 100%;
+    border-spacing:10px;
+    border: 1px solid #555;
+    
+}
+#movies thead{
+    
+    width:100%;
+    margin-left: 6px;
+    margin-top:5px;
+  }
+  #movies th,td{
+    border: 1px solid #555;
+  }
+ 
+  #movies th{
+      padding:2px;
+      text-align: center;
+  }
+  
+  #movies td{
+    
+    padding: 0px;
+    margin: 0px;
+    width:2px;
+    height: 10px;
+     border: 1px solid #555;
+  }
+  #movies tr{
+      width:98%;
+    height:20px;
+  }
+  
+  #movies tbody{
+   height:auto;
+}
+#apps{
+    
+    width: 100%;
+    border-spacing:10px;
+    border: 1px solid #555;
+    
+}
+#apps thead{
+    
+    width:100%;
+    margin-left: 6px;
+    margin-top:5px;
+  }
+  #apps th,td{
+    border: 1px solid #555;
+  }
+ 
+  #apps th{
+      padding:2px;
+      text-align: center;
+  }
+  
+  #apps td{
+    
+    padding: 0px;
+    margin: 0px;
+    width:2px;
+    height: 10px;
+     border: 1px solid #555;
+  }
+  #apps tr{
+      width:98%;
+    height:20px;
+  }
+  
+  #apps tbody{
+   height:auto;
+}
+#music{
+    
+    width: 100%;
+    border-spacing:10px;
+    border: 1px solid #555;
+    
+}
+#music thead{
+    
+    width:100%;
+    margin-left: 6px;
+    margin-top:5px;
+  }
+  #music th,td{
+    border: 1px solid #555;
+  }
+ 
+  #music th{
+      padding:2px;
+      text-align: center;
+  }
+  
+  #music td{
+    
+    padding: 0px;
+    margin: 0px;
+    width:2px;
+    height: 10px;
+     border: 1px solid #555;
+  }
+  #music tr{
+      width:98%;
+    height:20px;
+  }
+  
+  #music tbody{
+   height:auto;
+}
+#magazine{
+    
+    width: 100%;
+    border-spacing:10px;
+    border: 1px solid #555;
+    
+}
+#magazine thead{
+    
+    width:100%;
+    margin-left: 6px;
+    margin-top:5px;
+  }
+  #magazine th,td{
+    border: 1px solid #555;
+  }
+ 
+  #magazine th{
+      padding:2px;
+      text-align: center;
+  }
+  
+  #magazine td{
+    
+    padding: 0px;
+    margin: 0px;
+    width:2px;
+    height: 10px;
+     border: 1px solid #555;
+  }
+  #magazine tr{
+      width:98%;
+    height:20px;
+  }
+  
+  #magazine tbody{
+   height:auto;
+}
+#shopping{
+    
+    width: 100%;
+    border-spacing:10px;
+    border: 1px solid #555;
+    
+}
+#shopping thead{
+    
+    width:100%;
+    margin-left: 6px;
+    margin-top:5px;
+  }
+  #shopping th,td{
+    border: 1px solid #555;
+  }
+ 
+  #shopping th{
+      padding:2px;
+      text-align: center;
+  }
+  
+  #shopping td{
+    
+    padding: 0px;
+    margin: 0px;
+    width:2px;
+    height: 10px;
+     border: 1px solid #555;
+  }
+  #shopping tr{
+      width:98%;
+    height:20px;
+  }
+  
+  #shopping tbody{
+   height:auto;
+}
+
+  #add-row{
+      
+      color:blue;
+      float:right;
+      margin-top:60px;
+      margin-left:0px;
+     
+      padding:2px 2px 1px;
+  }
+  .row{
+    overflow:hidden;
+    width:101.5.5px;
+          /* margin-right: 0px; 
+          margin-left: 0px; */
+  } 
+  
+  #finish{
+      float:right;
+      width:130px;
+      height:34px;
+  }
+  

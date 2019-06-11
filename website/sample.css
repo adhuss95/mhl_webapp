@@ -1,0 +1,25 @@
+header{
+    color:white; 
+    position: absolute;
+    text-align: center;
+    left: 0;
+    width:100%;
+    top: 0;
+    background-color: #2995f3;
+}
+    
+    .center{
+    position: fixed;
+    display: inline-block;
+    background:green;
+    }
+    .left{
+    left:0px;
+    position:fixed;
+    background:grey
+    }
+    .right{
+    right:0px;
+    position:fixed;
+    
+    }
