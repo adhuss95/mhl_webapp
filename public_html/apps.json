@@ -1,0 +1,582 @@
+[
+  {
+    "TITLE": "Bad Guy",
+    "APK_NAME": "badguy.bad",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Action game where you have to protect yourself from rockets, arrows and other hazards.",
+    "SYNOPSIS_DAN": "",
+    "SYNOPSIS_KAL": "Pinnguaat pissanganartoq. Raketsinik, qarsunik ulorianartunillu allanik eqqortinnaveersaarit!"
+  },
+  {
+    "TITLE": "Brick Dodge",
+    "APK_NAME": "brick.dodgers",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Puzzle game where you try to increase the number of coloured squares on screen.",
+    "SYNOPSIS_DAN": "Puzzle-spil, hvor du skal forøge antallet af farvede felter på skærmen.",
+    "SYNOPSIS_KAL": "Pinnguaat eqqarsarnartoq, kipparissut qalipaatillit skærmimiittut amerlisarniarsarissavatit."
+  },
+  {
+    "TITLE": "Bubble Game",
+    "APK_NAME": "bubbles.game",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Tap the bubbles to increase your score",
+    "SYNOPSIS_DAN": "Tryk på boblerne for at forøge dit pointtal",
+    "SYNOPSIS_KAL": "Inuttaaraq aqullugu pinnguaat"
+  },
+  {
+    "TITLE": "Candy",
+    "APK_NAME": "candy.candy",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Switch and match your way through hundreds of fun levels in this delicious puzzle adventure.",
+    "SYNOPSIS_DAN": "Skift og match dig igennem hundredvis af sjove baner i dette skønne puzzle-eventyr.",
+    "SYNOPSIS_KAL": "Pinnguaat eqqarsarnartoq. Paarlaassuillutit assigiiaartitsillutit ingerlariaqqiffissarpassuit mamarunartut naammassiniaqattaakkit."
+  },
+  {
+    "TITLE": "Drive your Car",
+    "APK_NAME": "cargam.cargem",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Do you have a need for speed? Hit the road in a slick sports car. Drag race against other reckless motorist.",
+    "SYNOPSIS_DAN": "Er du glad for fart? Find asfalten i en lækker sportsvogn. Ræs mod andre vanvidsbilister.",
+    "SYNOPSIS_KAL": "Sukkalisaarusuppit? Torrassuaartunik sukkaniuussutinik biililerlutit sukkaniuuttartut allat unammillikkit."
+  },
+  {
+    "TITLE": "Color Pong",
+    "APK_NAME": "colors.pong1",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Simple, Easy to play but Addictive Ping pong game. Just swipe your finger to hit the ball.",
+    "SYNOPSIS_DAN": "Enkelt, nemt men vanedannende ping pong-spil. Stryg blot med fingeren for at ramme bolden.",
+    "SYNOPSIS_KAL": "Nerrivimmi arsaararluni pinnguaat ajornaatsoq uerinarluinnartoq. Skærmi attorlugu arsaaraq patittassavat."
+  },
+  {
+    "TITLE": "Duet",
+    "APK_NAME": "duet.duet",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Your survival is dependent on protecting two vessels - they are devices in sync, a dance and song between two entities tethered together in symbiosis.",
+    "SYNOPSIS_DAN": "Din overlevelse afhænger af at beskytte to fartøjer – der er synkroniserede enheder, en dans og en sang mellem to enheder, der er bundet sammen i symbiose.",
+    "SYNOPSIS_KAL": "Annakkumallutit umiarsuit marluk illersussavatit - ingiaqatigiillutik ingerlapput, erinarsoqatigiittutut qiteqatigiittutullusooq imminnut ataqatigiilluinnarlutik."
+  },
+  {
+    "TITLE": "Football",
+    "APK_NAME": "football.football",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Simple football game. How long can you go without dropping the ball?",
+    "SYNOPSIS_DAN": "Enkelt fodboldspil. Hvor længe kan du fortsætte uden at tabe bolden?",
+    "SYNOPSIS_KAL": "Arsarluni pinnguaat ajornanngitsoq. Arsaq nakkaanagu qanoq sivisutigisumik pinnguarisinnaaviuk?"
+  },
+  {
+    "TITLE": "Gate to Win",
+    "APK_NAME": "gateto.win",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "position yourself correctly to pass through the gaps in oncoming barriers",
+    "SYNOPSIS_DAN": "Placer dig selv korrekt, så du kan slippe igennem sprækkerne i de barrierer, du hele tiden støder på",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Jump",
+    "APK_NAME": "jump.game2",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Bounce from platform to platform, dodge the obstacles , and grab everything you can to get the highest score.",
+    "SYNOPSIS_DAN": "Hop fra platform til platform, undgå forhindringerne, og grib alt, du kan for at få den højeste score.",
+    "SYNOPSIS_KAL": "Tammikalaarlutit tullagassamit tullagassamut ikaaqattaarit, akornutit avaqquttarlugit aqqutaanilu tiguneqarsinnaasut tamaasa katersorlugit pointinnattarlutit."
+  },
+  {
+    "TITLE": "Narrow Game",
+    "APK_NAME": "narrow.game",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "All you have to do is to tap on the screen to jump, avoid obstacles and move forward. But it is much much harder than it seems. You will face different and challenging obstacles as you progress.",
+    "SYNOPSIS_DAN": "Alt, du skal gøre, er at trykke på skærmen for at springe, undgå forhindringer og bevæge dig fremad. Men det er langt sværere, end det ser ud til. Du kommer til at stå over forskellige og udfordringerne forhindringer, i takt med at du kommer frem i spillet.",
+    "SYNOPSIS_KAL": "Skærmi attorlugu pissittarlutit akornutit avaqqunniarsariinnassavatit. Ajornaatsuinnaanngilarli, ingerlaartillutit akornutit allanngortarlutillu pisariunerulertassapput."
+  },
+  {
+    "TITLE": "Pixel Zombie",
+    "APK_NAME": "pixel.zombie",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Tap the charging zombies to destroy him",
+    "SYNOPSIS_DAN": "Tryk på den angribende zombier for at tilintetgøre dem",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Punch Box",
+    "APK_NAME": "punch.box",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Punch the boxes as hard as you can! Punch as fast as you can and destroy as many boxes as possible before time run out",
+    "SYNOPSIS_DAN": "Slå så hårdt, du kan til kasserne! Slå så hårdt, du kan, for at destruere så mange bokse som muligt, før tiden løber ud",
+    "SYNOPSIS_KAL": "Karsit tillorujussuartassavatit! Piffissarititaasup iluani tilluaallutit karserpassuarnik sequtseriniarsarissaatit."
+  },
+  {
+    "TITLE": "Smash Me",
+    "APK_NAME": "smash.me",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Smash Me is a Fun and Easy Game where the goal is to smash as many Zombies as you can before they get you! With 60 Levels to unlock this game is sure to keep you entertained.",
+    "SYNOPSIS_DAN": "Smash Me er et sjovt og nemt spil, hvor målet er at smadre så mange zombier, du kan, før de får ram på dig! Med 60 baner, der kan oplåses, kan du være sikker på at blive underholdt af dette spil.",
+    "SYNOPSIS_KAL": "Smash Me pinnguaataavoq nuannersoq ajornanngitsorlu. Sapinngisamik Zombienit eqqortinnaveersaajutigalutit Zombiet amerlasuut eqqorniarsarissavatit. Pinnguaammi uani ingerlariaqqiffissat 60-iugamik aliikkutassaaleqinanngivippoq!"
+  },
+  {
+    "TITLE": "Tap the Color",
+    "APK_NAME": "tap.thecolour",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Tap the colour that is stated at the top of the screen as fast as possible.",
+    "SYNOPSIS_DAN": "Tryk på den farve, der vises øverst på skærmen – så hurtigt som muligt.",
+    "SYNOPSIS_KAL": "Qalipaat qulaani takutinneqartoq tuupallattassavat."
+  },
+  {
+    "TITLE": "Texas Shooter",
+    "APK_NAME": "texas.shooting",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Texas shooter is simple and fun to play. all you need to do is aim at the bad guys and shoot. But be careful, they are skilled at hiding!",
+    "SYNOPSIS_DAN": "Texas-shooter, der er enkelt og sjovt at spille. Alt, du skal gøre, er at sigte på skurkene og skyde. Men pas på: De er gode til at gemme sig!",
+    "SYNOPSIS_KAL": "Texas shooter pinnguaataavoq ajornanngitsoq nuannersorlu. Angutit ajortut umeriarlugit seqqoruit, allamik naamik. Toqqullaqqeqigamilli ajornaatsuinnaanngilaq."
+  },
+  {
+    "TITLE": "Towers",
+    "APK_NAME": "towers.to",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Arcade",
+    "SYNOPSIS_ENG": "Game in which the player has to stack the cute blocks, one on top of the other, as high as they can to build the tower. The higher you can build, the higher your scores and achievement will be.",
+    "SYNOPSIS_DAN": "Spil, hvor spilleren skal stable de nuttede blokke oven på hinanden – så højt som muligt for at bygge et tårn. Jo højere du kan bygge, desto flere point får du, og desto større er din bedrift.",
+    "SYNOPSIS_KAL": "Karseeqqat qaleriiaarlugit portusuumik napasulialiorniarsarigit. Portussusaa naapertorlugu pointilerneqassaatit, portuneruppat angusarissaarnerussaatit."
+  },
+  {
+    "TITLE": "Break It",
+    "APK_NAME": "brake.it",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Creative",
+    "SYNOPSIS_ENG": "Puzzle game where you try to increase the number of coloured squares on screen.",
+    "SYNOPSIS_DAN": "Puzzle-spil, hvor du skal forøge antallet af farvede felter på skærmen.",
+    "SYNOPSIS_KAL": "Pinnguaat eqqarsarnartoq, kipparissut qalipaatillit skærmimiittut amerlisarniarsarissavatit."
+  },
+  {
+    "TITLE": "Build your Robot",
+    "APK_NAME": "buildyour.robot",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Creative",
+    "SYNOPSIS_ENG": "Build a robot from the parts on screen",
+    "SYNOPSIS_DAN": "Byg en robot af delene på skærmen",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Colouring",
+    "APK_NAME": "ie.mythopoeia.drawingapp",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Creative",
+    "SYNOPSIS_ENG": "Pick an image and colour it in",
+    "SYNOPSIS_DAN": "Vælg et billede, og farvelæg det",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Brick",
+    "APK_NAME": "brick.brick",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Tap the screen to navigate your brick through the obstacles",
+    "SYNOPSIS_DAN": "Tryk skærmen for at flytte din mursten igennem forhindringerne",
+    "SYNOPSIS_KAL": "Inuttaaraq aqullugu pinnguaat"
+  },
+  {
+    "TITLE": "Choli Climb",
+    "APK_NAME": "choli.climb",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Jump on platforms and climb the mountain! You should help Choli to climb the mountain and reach its peak. But there are many places that you can fall down, so you should be very careful. All you have to do is to jump on the platforms and avoid falling by jumping over holes.",
+    "SYNOPSIS_DAN": "Spring på platforme, og bestig bjerget! Du skal hjælpe Choli med at klatre op ad bjerget og nå helt til tops. Men der er mange steder, hvor du kan falde ned – så plads godt på. Alt, du skal gøre, er at springe på platforme og undgå at falde ned ved at springe over huller.",
+    "SYNOPSIS_KAL": "Pissittaarlutit tullagassat ingerlaarfigalugit qaqqamut majuarit! Choli qaqqap qaarpiaanut qaqiniarsarisoq ikiussavat. Kisianni nakkarfissat sianigeqqissaassavatit. Pissillutit tullagassanut ikaaginnartassaatit, putullu nakkarfissat qarsuttaarlugit."
+  },
+  {
+    "TITLE": "Choli Water",
+    "APK_NAME": "choli.choli",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Jump on floating platforms and try not to fall in the water! You are a cute little creature that wants to cross the lake. You have to jump on platforms that are on water’s surface and go as far as you can.  But be careful, you also can’t swim so falling in the water means losing!",
+    "SYNOPSIS_DAN": "Spring på de flydende platforme, og pas på, du ikke falder i vandet! Du er et sødt lille væsen, der gerne vil krydse søen. Du skal springe på platforme, der befinder sig på vandets overflade, og nå så langt, du kan.  Men pas på: Du kan ikke svømme, så hvis du falder i vandet, taber du!",
+    "SYNOPSIS_KAL": "Maasararlutit isinnaveersaarlutit ingerlagit! Uumasuusannguaq aqullugu taseq ikaarniarsarissavat. Puttaat ingerlavigalugit pisseqattaarlutit ikaaqattaassaatit. Mianersorit, nalussinnaannginnavit isikkuit ajorsassaatit!"
+  },
+  {
+    "TITLE": "Dash Man",
+    "APK_NAME": "dash.man",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "How far can you run? Get to your destination as fast as you can.",
+    "SYNOPSIS_DAN": "Hvor langt kan du nå? Nå i mål, så hurtigt du kan.",
+    "SYNOPSIS_KAL": "Qanoq oqilatigivit? Sukkanissat tamaat apuuffissannut apissinniarsarigit."
+  },
+  {
+    "TITLE": "Fall",
+    "APK_NAME": "dontfall.fixed",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Control the bouncing dot to keep it falling through the shifting floor",
+    "SYNOPSIS_DAN": "Styr den hoppende print, så den ikke falder igennem det drilske gulv",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Falling Boxes",
+    "APK_NAME": "falling.boxes",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Avoid the falling boxes and climb to avoid the rising water.",
+    "SYNOPSIS_DAN": "Undgå de faldende kasser, og klatr for at undgå det stigende vand.",
+    "SYNOPSIS_KAL": "Karsit nakkakaasut sianigalugit majuassaatit, imeq ulikkiartortoq qimarratigalugu."
+  },
+  {
+    "TITLE": "Ghost",
+    "APK_NAME": "ghost.one",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Platforming game where you play a little ghost. Move up through the levels avoiding obstacles as you go.",
+    "SYNOPSIS_DAN": "Platformsspil, hvor du spiller et lille spøgelse. Kom op i niveau, og undgå forhindringerne på vejen.",
+    "SYNOPSIS_KAL": "Pinnguaammi uani aliortugaaraq angalaarutissavat. Qummut ingerlaartillutit aqqutaani akornutinit eqqortinnaveersaassaatit."
+  },
+  {
+    "TITLE": "Neo",
+    "APK_NAME": "neo.game",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Dash & Jump your way through out.. Simply avoid all the spikes out of the way and move forward! This is a challenge and rhythm based game. Jump through the square enemies and try to control your rush.",
+    "SYNOPSIS_DAN": "Hop og spring dig igennem. Undgå blot alle piggene på vejen, og bevæg dig fremad! Dette er et spil, som er baseret på udfordring og rytme. Hop igennem de firkantede fjender, og prøv at få styr på tempoet.",
+    "SYNOPSIS_KAL": "Arpallutit pissillattaallutit aniguiniarsarissaatit. Kapinartut eqqornaveersaajutigalugit siumut ingerlagit! Malinnaalluarluni eqqummaarinnissaq uani pingaaruteqarpoq. Akeqqat kipparissut akornitigut pisseqattaarlutit ingerlagit, tuavioraluarlutillu ingerlanerit sianigeqqissaarlugu."
+  },
+  {
+    "TITLE": "Pixel Sheep",
+    "APK_NAME": "pixel.sheep",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Simple platformer with a sheep protagonist.",
+    "SYNOPSIS_DAN": "Enkelt platform med et får som helt.",
+    "SYNOPSIS_KAL": "Inuttaq aqullugu pinnguaat ajornanngitsoq. Sava uani inuttaritinneqarpoq."
+  },
+  {
+    "TITLE": "The Tower",
+    "APK_NAME": "the.tower",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Platforming",
+    "SYNOPSIS_ENG": "Platforming game with a sheep.",
+    "SYNOPSIS_DAN": "Platformsspil med et får.",
+    "SYNOPSIS_KAL": "Inuttaaraq sava aqullugu pinnguaat."
+  },
+  {
+    "TITLE": "Ban",
+    "APK_NAME": "ban.ban",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "The goal of Ban is to activate all of the boxes by dragging them to the activators in each area with your character.",
+    "SYNOPSIS_DAN": "Formålet med Ban er at aktivere alle boksene ved at trække dem over til aktivatorerne i hvert område med din figur.",
+    "SYNOPSIS_KAL": "Pinnguaatit Ban-ip siunertaraa karsit tamarmik ikinneqarnissaat. Inuttaq aqutat atorlugu karsit ikinneqarfissaannut kalittassavatit."
+  },
+  {
+    "TITLE": "Circle",
+    "APK_NAME": "circle.one",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Puzzle game",
+    "SYNOPSIS_DAN": "Puzzle-spil",
+    "SYNOPSIS_KAL": "Pinnguaat eqqarsarnartoq"
+  },
+  {
+    "TITLE": "Doodle Connect",
+    "APK_NAME": "doodleconnect.fixed",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Connect the dots to complete the puzzles",
+    "SYNOPSIS_DAN": "Forbind prikkerne for at fuldføre puzzle-spillene",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Equal",
+    "APK_NAME": "equal.equal",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Number puzzle game. Aim of the game is to get each number on a 3x3 board of numbers to be exactly the same",
+    "SYNOPSIS_DAN": "Puzzle-spil med tal. Formålet med spillet er at nå hvert tal på et 3x3-bræt med tal, der skal være helt de samme",
+    "SYNOPSIS_KAL": "Kisitsisinik pinnguaat eqqarsarnartoq. Pinnguaatip siunertaraa tabelimi kipparissuaralimmi 3x3-mi kisitsisit tamarmik assigiilersinnissaat."
+  },
+  {
+    "TITLE": "Game 2048",
+    "APK_NAME": "planet.twentyfortyeight",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "2048 is a popular single-player sliding block puzzle game. Swipe to move the planets, when two of the same planets touch they become one. Get to the sun tile to win!",
+    "SYNOPSIS_DAN": "2048 er et populært sliding puzzle-spil for én spiller. Stryg på skærmen for at bevæge planeterne. Når to af de samme planeter rører hinanden, bliver de til én. Nå frem til solfeltet for at vinde!",
+    "SYNOPSIS_KAL": "2048 pinnguaataavoq nuannarineqarluartoq. Kisimiilluni pinnguaataavoq. Skærmi attorlugu planetit nusullugillusooq nuuttassavatit, assigiit marluk imminnut attuukkaangamik kattunneqartarput. Seqineq angugukku ajugaassaatit!"
+  },
+  {
+    "TITLE": "Marble Smash",
+    "APK_NAME": "marble.one",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Match three style puzzle game with multiple levels.",
+    "SYNOPSIS_DAN": "Puzzle-spil, hvor du skal matche tre stilarter på flere forskellige baner.",
+    "SYNOPSIS_KAL": "Pinnguaammi eqqarsarnartumi uani assigiiaat pingasukkaarneqassapput. Ingerlariaqqiffissat arlaqarput."
+  },
+  {
+    "TITLE": "Monkey Rally",
+    "APK_NAME": "monkey.rally",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Instruct the monkey through the lab to reach it's goal",
+    "SYNOPSIS_DAN": "Diriger aben rundt i laboratoriet, så den kan nå i mål",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Sliding Puzzle",
+    "APK_NAME": "sliding.puzzle",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Game which requires the player to slide the numbered tiles to solve the puzzle.",
+    "SYNOPSIS_DAN": "Spil, der kræver, at spilleren skubber til de nummererede fliser for at løse puzzle-spillet.",
+    "SYNOPSIS_KAL": "Pinnguaat eqqarsarnartoq. Kipparissut kisitsisitallit illikartinniarsarisassavatit."
+  },
+  {
+    "TITLE": "The Stones",
+    "APK_NAME": "the.stones",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Match all the blocks of the same colour to destroy them. Try and destroy as many as you can in order to move onto the next level.",
+    "SYNOPSIS_DAN": "Match alle blokke med samme farve for at destruere dem. Destruer så mange, du kan, for at komme videre til næste bane.",
+    "SYNOPSIS_KAL": "Karseeqqat qalipaateqatigiiaat ataatsimut kattuttaarlugit piiakkit. Karsinik amerlasuunik piiaaguit pinnguaammi ingerlariaqqitsinneqartassaatit."
+  },
+  {
+    "TITLE": "ZZZ Mind Game",
+    "APK_NAME": "mind.game",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Puzzle",
+    "SYNOPSIS_ENG": "Match three or more blocks of the same colour to destroy them. Try and destroy as many as you can in order to move onto the next level.",
+    "SYNOPSIS_DAN": "Match tre blokke eller flere med samme farve for at destruere dem. Destruer så mange, du kan, for at komme videre til næste bane.",
+    "SYNOPSIS_KAL": "Karseeqqat minnerpaamik pingasut kattuttarlugit piiakkit. Karseeqqanik amerlasuunik piiaaguit nalunarnerusumut ingerlateqqinneqassaatit."
+  },
+  {
+    "TITLE": "AA Ball",
+    "APK_NAME": "aa.ball",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "In this game there is a rotating ball in the center, surrounded by some radiant balls (like needles), players need to launch the radiant balls to the rotation ball one by one, without touching others.",
+    "SYNOPSIS_DAN": "I dette spil er der en roterende bold i midten omkredset af nogle strålende bolde (såsom nåle), og spillerne skal aktivere stråleboldene til strålebolden én ad gangen uden at røre de øvrige.",
+    "SYNOPSIS_KAL": "Pinnguaammi uani arsaq kaavittoq qeqqaniippoq, taassumalu ungataaniipput arsat qinngornillit (meqqutitut ittut). Allanik attugaqarnak arsat qinngornillit ataasiakkaarlugit arsamut kaavittumut aallartittaassavatit."
+  },
+  {
+    "TITLE": "Around the World",
+    "APK_NAME": "around.world2",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Time the jumps of the miner to make it around the world",
+    "SYNOPSIS_DAN": "Minearbejderen skal nå hele vejen rundt om jorden på tid",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Arrow",
+    "APK_NAME": "arrow.one",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Try to go through all obstacles and get the star before the bottom bar reaches you.",
+    "SYNOPSIS_DAN": "Prøv at gå igennem alle forhindringerne, og få stjernen, før den nederste bjælke når dig.",
+    "SYNOPSIS_KAL": "Aqqutaani akornutaasinnaasut tamaasa qaangerlugit assiaqummit naqqaniittumit anguneqartinnak ulloriaq anguniarsariuk."
+  },
+  {
+    "TITLE": "Battle Fish",
+    "APK_NAME": "battle.fish",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Adventure game where you try to navigate a sea full of monsters and other obstacles.",
+    "SYNOPSIS_DAN": "Adventure-spil, hvor du skal prøve at navigere i et hav fyldt med monstre og andre forhindringer.",
+    "SYNOPSIS_KAL": "Pissanganartorsiorluni pinnguaat. Imarsuaq uumasorujunnik akornutinillu allanik ulikkaartoq akornuserneqarnak angallaviginiarsariuk."
+  },
+  {
+    "TITLE": "Circle Runner",
+    "APK_NAME": "circle.runner",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "You have to help the man run around the circle for as long as possible. But many different obstacles appear in his way and you have to make them jump to avoide them.",
+    "SYNOPSIS_DAN": "Du skal hjælpe manden med at løbe omkring cirklen så længe som muligt. Men der er mange forhindringer på vejen, og du skal få dem til at springe for at undgå dem.",
+    "SYNOPSIS_KAL": "Angut ammalortukkut ingerlasoq akornuserneqaqqunagu ikiussavat. Aqqutaanili akornuterpassuit puttuttarput, taamaammallu angut akornuserneqaqqunagu akornutaasinnaasut tammisittaartariaqassavatit."
+  },
+  {
+    "TITLE": "City Builder",
+    "APK_NAME": "city.build",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Game in which the player has to stack units of a building one on top of the other with a crane as high as they can to build the skyscraper. The higher you can build, the higher your scores and achievement will be.",
+    "SYNOPSIS_DAN": "Spil, hvor spilleren skal stable bygningsdele blække oven på hinanden – så højt som muligt for at bygge et tårn. Jo højere du kan bygge, desto flere point får du, og desto større er din bedrift.",
+    "SYNOPSIS_KAL": "Kranersuaq atorlugu atortorissaarutit qaleriiaarlugit illorsuaq portusuuliaq sanajuk. Portussusaa naapertorlugu nalilerneqassaatit, portuneruppat angusarissaarnerussaatit."
+  },
+  {
+    "TITLE": "Clock",
+    "APK_NAME": "clock.clock",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "You are in a race against time! Shoot and destroy as many clocks as you can before time runs out.",
+    "SYNOPSIS_DAN": "Du spiller imod tiden! Du kan skyde og destruere så mange ure som muligt, før tiden løber ud.",
+    "SYNOPSIS_KAL": "Nalunaaquttap unammillerpaatit! Piffissarititaasup iluani nalunaaquttat eqqorsinnaasatit tamaasa piuneerutitikkit."
+  },
+  {
+    "TITLE": "Dotz",
+    "APK_NAME": "dot.z",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "The object of is to tap the dots as fast as you can to keep them from colliding! Once they collide the game is over.",
+    "SYNOPSIS_DAN": "Formålet er at trykke på prikkerne så hurtigt, du kan, så de ikke støder ind i hinanden! Hvis de støder sammen, er spillet slut.",
+    "SYNOPSIS_KAL": "Tuaviorlutit toorneeqqat toortarlugit imminnut aportinnaveersaakkit! Toorneeqqat aporpata ajorsassaatit."
+  },
+  {
+    "TITLE": "Electro",
+    "APK_NAME": "electro.game",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "The goal of this game is to hit as many circles as you can. This game is all about timing, you must tap the screen at the right time to hit your targets.",
+    "SYNOPSIS_DAN": "Formålet med dette spil er at ramme så mange cirkler, du kan. Spillet handler om timing – du skal trykke på skærmen på det rette tidspunkt for at ramme dine mål.",
+    "SYNOPSIS_KAL": "Pinnguaatip uuma siunertaraa ammalortunik amerlasuunik eqqorsinissaq. Eqqummaarillutit piffissaq eqqorlugu pinissat uani pingaaruteqarpoq, eqqoriakkannut naleqquttumik skærmi attorlugu eqqoriaagit."
+  },
+  {
+    "TITLE": "Fall",
+    "APK_NAME": "fall.fall",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Drop safely between the platforms to fall down deeper and deeper., who can fall the lowest!",
+    "SYNOPSIS_DAN": "Kast dig sikkert imellem platformene, så du kan kommer dybere og dybere ned. Hvem kommer længst ned?",
+    "SYNOPSIS_KAL": "Tullagassat akornisigut nakkarlutit tasamungarsuaq nakkarniarsarissaatit. Kinamigooq itinerusumut nakkartoq?"
+  },
+  {
+    "TITLE": "Slow",
+    "APK_NAME": "slow.slow",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Control the speed of moving obstacles that get in your way",
+    "SYNOPSIS_DAN": "Styr hastigheden for de bevægelse forhindringer, som kommer i vejen for dig",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Square",
+    "APK_NAME": "square.one",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Try and achieve the highest score controlling and moving the square.",
+    "SYNOPSIS_DAN": "Prøv dig frem, og opnå den højeste score ved at kontrollere og flytte rundt på firkanten.",
+    "SYNOPSIS_KAL": "Kipparissoq aqullugu nuuttarlugulu sapinngisamik amerlasuunik pointinnanniarsarigit."
+  },
+  {
+    "TITLE": "The Dot",
+    "APK_NAME": "thedot.fixed",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Pass the dot between the top and bottom of the screen dodging the obstacles",
+    "SYNOPSIS_DAN": "Led prikken igennem den øverste og nederste del af skærmen, alt imens du undgår forhindringer",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "The Lock",
+    "APK_NAME": "the.lock",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Lock picking puzzle game",
+    "SYNOPSIS_DAN": "Puzzle-spil med opbrydning af låse",
+    "SYNOPSIS_KAL": "Pinnguaat eqqarsarnartoq parnaarsaatinik ammaaniarnermut tunngasoq."
+  },
+  {
+    "TITLE": "The Miner",
+    "APK_NAME": "the.miner",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Mining game where the player controls a claw",
+    "SYNOPSIS_DAN": "Minespil, hvor spilleren styrer en klo",
+    "SYNOPSIS_KAL": "Aatsitassarsiorluni pinnguaat, maskiina assaassut aqussavat."
+  },
+  {
+    "TITLE": "Titagon",
+    "APK_NAME": "com.rtm.titagon",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Titagon helps you improve your reaction and attention skills by challenging you to escape through the circles that come to surround you.",
+    "SYNOPSIS_DAN": "Titagon hjælper dig med at forbedre din reaktionsevne og opmærksomhed ved at udfordre dig til at flygte igennem de cirkler, der dannes omkring dig.",
+    "SYNOPSIS_KAL": "Titagonimi qisuariarsinnaanerit malinnaasinnaanerillu nukittorsarneqassapput. Ammalortut ungusiniaallutik tiguaaniarsarisut akornisigut qimaaniarsarissaatit."
+  },
+  {
+    "TITLE": "Train",
+    "APK_NAME": "train.fixed",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Tap the trains to speed them up and keep them from crashing with each other",
+    "SYNOPSIS_DAN": "Tryk på togene for at sætte farten i vejret, og pas på, de ikke kører ind i hinanden",
+    "SYNOPSIS_KAL": ""
+  },
+  {
+    "TITLE": "Two Points",
+    "APK_NAME": "two.points",
+    "FORMAT": "APK",
+    "CATEGORY": "Games:Kids",
+    "GENRE": "Timing",
+    "SYNOPSIS_ENG": "Simply tap to rotate the two points to collect the incoming balls but be careful when rotating the two points.",
+    "SYNOPSIS_DAN": "Tryk blot for at rotere de to punkter for at indsamle de indkommende bolde, men pas på, når du roterer de to punkter.",
+    "SYNOPSIS_KAL": "Skærmi attortarlugu arsaaqqat isaasut katersorumallugit aqutassat marluusut kaaviseqattaakkit, kaavisinnerannili sianigalutit pissaatit."
+  }
+]
