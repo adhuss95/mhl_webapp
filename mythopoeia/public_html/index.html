@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>CMS</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="app.js"></script>
+  <script src="server1.js"></script>
+  <script src="movies.js"></script>
+  <script src="apps.js"></script>
+  <script src="music.js"></script>
+  <script src="magazine.js"></script>
+  <script src="shopping.js"></script>
+
+
+  </head>
+
+  <body>
+      <header>
+
+         <div class="logo">
+         <img src = "myth.jpeg" alt="Aircraft logo">
+        </div>  
+        
+       <div  class="heading">
+         CONTENT SELECTION SYSTEM
+      </div>  
+
+      <!-- <div class="customer_details">
+            Welcome YYY
+      </div>   -->
+
+       
+      </header>
+
+        <div class="article" id="artcle">
+            <button class="btn btn-primary" onclick="Infofunction()">Create Content Cycle</button>
+            <button class="btn btn-primary">View Content Cycle</button>
+           
+        </div>
+        <div class="form" id="forms">
+        <div id ="info1" class="dropdown">
+            
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" id="cc-creation" onchange="dropdownList()">Content Cycle
+            <span class="caret"></span></button>
+            <ul class="dropdown-menu" id="dropdown-menu-select" >
+                    <li><a href="#">March</a></li>
+                    <li><a href="#">June</a></li>
+                    <li><a href="#">September</a></li>
+                    <li><a href="#">December</a></li>
+            </ul>
+        </div>
+
+        <div id ="info2" class="dropdown">
+            <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" id="airlines">Airlines
+                    <span class="caret"></span></button>
+                    
+
+            <ul class="dropdown-menu" id="dropdown-menu-select" onchange="dropdownList()">
+                    <li><a href="#">AGL</a></li>
+                    <li><a href="#">Rossiya</a></li>
+                    <li><a href="#">Lufthansa</a></li>
+                    <li><a href="#">Atlas</a></li>
+            </ul>
+        </div>
+          <div class=button-submit>
+        <button type="submit" id="form-submit" onclick="openTabs()">Submit</button>
+              </div>
+
+        </div>
+
+       <article>
+
+       
+
+        
+        <div class="tabs" id="tab-list">
+                <button class="tablink" onclick="openPage('Movie', this, 'black')">Movies</button>
+                <button class="tablink" onclick="openPage('Apps', this, 'black')">Apps</button>
+                <button class="tablink" onclick="openPage('Music', this, 'black')">Music</button>
+                <button class="tablink" onclick="openPage('Magazine', this, 'black')">Magazine</button>
+                <button class="tablink" onclick="openPage('Shopping', this, 'black')">Shopping</button>
+                <button class="tablink" onclick="openPage('Tvshow', this, 'black')">TV Shows</button>
+
+                <!-- <button id=add-row onclick="appendRow()">+</button> -->
+                
+        </div>
+
+        <div class="tables" id="Movie">
+                <!-- //MOVIES TABLE -->
+                
+                <button id=add-row  onclick="appendRow_movies()">Add Row</button>
+                <table id="movies" align="center">
+                        <thead class="thead-dark">
+                
+                          <tr>
+                            <th>Movie Name-Eng</th>
+                            <th>Movie Name-Dan</th>
+                            <th>Movie Name-Kal</th>
+                            <th>File Name</th>
+                            <th>Format</th>
+                            <th>Language-Eng</th>
+                            <th>Language-Dan</th>
+                            <th>Category</th>
+                            <th>Genre-Eng</th>
+                            <th>Genre-Dan</th>
+                            <th>Genre-Kal</th>
+                            <th>Duration</th>
+                            <th>Rating</th>
+                            <th>Director</th>
+                            <th>Cast</th>
+                            <th>Synopsis_Eng</th>
+                            <th>Synopsis_Dan</th>
+                            <th>Synopsis_Kal</th>
+                            
+                          </tr>
+
+                          
+                        </thead>
+                        <tbody>
+                          <!-- <tr>
+                              <td><input type="checkbox" name="record"></td>
+                              <td>Peter Parker</td>
+                              <td>peterparker@mail.com</td>
+                            </tr> -->
+                
+                        </tbody>
+                      
+                      </table>
+                      
+                      <button onclick="exportTableToExcel('movies','SDS_March')" id="finish">Apply & Submit</button>
+                    </div>
+
+
+                       <!-- APPS TABLE  -->
+                       <div class="tables" id="Apps">
+                          <button id=add-row class="glyphicon glyphicon-plus-sign" onclick="appendRow_apps()"></button>
+                      <table id="apps" align="center">
+                        <thead>
+                
+                          <tr>
+                            <th>Title</th>
+                            <th>Apk Name</th>
+                            <th>Format</th>
+                            <th>Category</th>
+                            <th>Genre</th>
+                            <th>Synopsis_Eng</th>
+                            <th>Synopsis_Dan</th>
+                            <th>Synopsis_Kal</th>
+                            
+                          </tr>
+
+                          
+                        </thead>
+                        <tbody>
+                          <!-- <tr>
+                              <td><input type="checkbox" name="record"></td>
+                              <td>Peter Parker</td>
+                              <td>peterparker@mail.com</td>
+                            </tr> -->
+                
+                        </tbody>
+                      </table>
+                      <button id="finish" onclick="exportTableToExcel('apps','SDS_March')">Apply & Submit</button>
+                       </div>
+
+
+                      <!-- MUSIC TABLE -->
+
+                      <div class="tables" id="Music">
+                          <button id=add-row class="glyphicon glyphicon-plus-sign" onclick="appendRow_music()"></button>
+                      <table id="music" align="center">
+                        <thead>
+                
+                          <tr>
+                            <th>Title</th>
+                            <th>Artist</th>
+                            <th>Display name</th>
+                            <th>Genre</th>
+                            <th>Category</th>
+                            <th>Track Number</th>
+                            
+                            
+                          </tr>
+
+                          
+                        </thead>
+                        <tbody>
+                          <!-- <tr>
+                              <td><input type="checkbox" name="record"></td>
+                              <td>Peter Parker</td>
+                              <td>peterparker@mail.com</td>
+                            </tr> -->
+                
+                        </tbody>
+                      </table>
+                      <button id="finish" onclick="exportTableToExcel('music','SDS_March')">Apply & Submit</button>
+                      </div>
+
+                      <!-- MAGAZINE TABLE -->
+
+                      <div class="tables" id="Magazine">
+                          <button id=add-row class="glyphicon glyphicon-plus-sign" onclick="appendRow_magazine()"></button>
+                      <table id="magazine" align="center">
+                        <thead>
+                
+                          <tr>
+                            <th>Title</th>
+                            <th>File Name</th>
+                            <th>Format</th>
+                            <th>Language</th>
+                            <th>Publisher</th>
+                            <th>Category</th>
+                            <th>Display Name</th>
+                            <th>Synopsis_Eng</th>
+                            <th>Synopsis_Dan</th>
+                            <th>Synopsis_Kal</th>
+                            
+                          </tr>
+                          
+                          
+                        </thead>
+                        <tbody>
+                          <!-- <tr>
+                              <td><input type="checkbox" name="record"></td>
+                              <td>Peter Parker</td>
+                              <td>peterparker@mail.com</td>
+                            </tr> -->
+                
+                        </tbody>
+                      </table>
+
+                      <button id="finish" onclick="exportTableToExcel('magazine','SDS_March')">Apply & Submit</button>
+                      </div>
+
+                      <!-- SHOPPING TABLE -->
+
+                      <div class="tables" id="Shopping">
+                          <button id=add-row class="glyphicon glyphicon-plus-sign" onclick="appendRow_shopping()"></button>
+                      <table id="shopping" align="center">
+                        <thead>
+                
+                          <tr>
+                            <th>Item Name</th>
+                            <th>Price</th>
+                            <th>Category</th>
+                            <th>Description_Eng</th>
+                            <th>Description_Dan</th>
+                            <th>Description_Kal</th>
+                            
+                          </tr>
+
+                          
+                        </thead>
+                        <tbody>
+                          <!-- <tr>
+                              <td><input type="checkbox" name="record"></td>
+                              <td>Peter Parker</td>
+                              <td>peterparker@mail.com</td>
+                            </tr> -->
+                
+                        </tbody>
+                      </table>
+
+                      <button id="finish" onclick="exportTableToExcel('shopping','SDS_March')">Apply & Submit</button>
+        </div>
+<!-- 
+        <button id="finish">Apply & Submit</button> -->
+        </article>
+
+        
+  </body>
+  </html>
+
+  <script>
+  $(".dropdown-menu li a").click(function(){
+    $(this).parents(".dropdown").find('.btn').html($(this).text() + ' <span class="caret"></span>');
+    
+  });
+  </script>
+

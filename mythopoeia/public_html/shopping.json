@@ -1,0 +1,378 @@
+[
+  {
+    "ITEM_NAME": "Gordon’s - Dry Gin 50cl",
+    "PRICE": 89,
+    "CATEGORY": "Alcohol",
+    "DESCRIPTION_ENG": "A distinctively refreshing gin crafted from the finest handpicked juniper berries and a secret selection of botanicals. It's the taste that's made Gordon's the world's best-selling London Dry gin.",
+    "DESCRIPTION_DAN": "Gordon's Dry Gin, 50 cl.",
+    "DESCRIPTION_KAL": "Gordon's Dry Gin, 50 cl."
+  },
+  {
+    "ITEM_NAME": "Smirnoff Red Label - Vodka 50cl",
+    "PRICE": 89,
+    "CATEGORY": "Alcohol",
+    "DESCRIPTION_ENG": "Smirnoff No. 21 is the world's No. 1 vodka. Its classic taste has inspired other varieties throughout all four corners of the globe.",
+    "DESCRIPTION_DAN": "Smirnoff Red Label - vodka, 50 cl.",
+    "DESCRIPTION_KAL": "Smirnoff Red Label - vodka, 50 cl."
+  },
+  {
+    "ITEM_NAME": "Highland Eagle - Whisky 100cl",
+    "PRICE": 99,
+    "CATEGORY": "Alcohol",
+    "DESCRIPTION_ENG": "From the harsh mountains of the Highlands, with it’s glittering golden tones and a rich aroma Highland Eagle has strong impact from Scottish Highlands. It is full-bodied, bold, oily and fresh on the palate, no bitterness or sharpness – just perfection and warmth.",
+    "DESCRIPTION_DAN": "Fra de ufremkommelige bjerge i det skotske højland kommer The Highland Eagle. Glitrende gyldne farvenuancer og en fyldig, blød og rig duft med spændstige, stærke noter af højlandsmalt – den udsøgte Speyside-whisky. Smagen er fyldig, stor, kraftig og frisk. Ingen bitterhed eller skarphed - bare fuldendt og varm.",
+    "DESCRIPTION_KAL": "Skotlandip qattunerani qaqqat tikikkuminaatsuniit The Higland Eagle sananeqarpoq. Qalipaatit assigiinngitsut guultitulli qillalaartut, tikka naapertuilluartuusoq, qequisattoq tipigissorlu, eqaatsumik sakkortuumillu malte mamassusaa qatsissumeersoq – tassa Speyside-whisky pitsavik. Mamassusaa naapertuilluartoq, annertooq, sakkortooq aamma uummaarissoq. Qasilinngilaq imaluunniit pikkunarpallaamik  mamassuseqanngilaq – kukkuneqanngitsoq aamma kissaamminartoq."
+  },
+  {
+    "ITEM_NAME": "Baileys - Irish cream 50cl",
+    "PRICE": 89,
+    "CATEGORY": "Alcohol",
+    "DESCRIPTION_ENG": "Original Irish cream liqueur made using only the finest ingredients. The whisky complements the full, richness of the fresh Irish dairy cream, coca and heavenly vanilla. Together they create a multi-award winning taste sensation for you to enjoy. Every bottle of Baileys is produced and bottled exclusively in Ireland.",
+    "DESCRIPTION_DAN": "Baileys er en af verdens mest kendte likører, hele 2.260 glas Baileys nydes hvert minut, hver dag rundt omkring i hele verden. Hver eneste lille dråbe Baileys fremstilles stadig i Irland, og over 40.000 køer fra 1.500 irske gårde leverer mælk til Baileys. Servér denne klassiker afkølet med is, eller tilsæt den i kaffe.",
+    "DESCRIPTION_KAL": "Baileys tassaavoq nunarsuarmi tamani likørit ilisimaneqarnerpaasa ilaat, nunarsuaq tamakkerlugu ullut tamaasa minuttimut Baileys imertarfiit 2.260-it ilorrisimaarutigineqartarput. Baileys kuserneq annikikkaluartorluunniit suli Irlandimi sananeqartarpoq, nersussuit 40.000 Irlandimi naasorissaasoqarfinni  1.500-juusuni nersussuit immummik Baileyliornermi atugassamik pilersuisuupput. Taanna imigassaq soqutigineqartuartoq nillertuutillugu sikulerlugu sassaalliutigiuk, imaluunniit kaffisugassannut akuliuguk."
+  },
+  {
+    "ITEM_NAME": "Toblerone - Gold 360g",
+    "PRICE": 65,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Enjoy Toblerone’s smooth Milk chocolate, the iconic triangular chocolate from Switzerland with Honey and Almond Nougat. This pack contains 200g of Toblerone Milk Chocolate – a perfect gift for any chocolate lover.",
+    "DESCRIPTION_DAN": "Nyd Toblerone, den trekantformede chokolade fra Schweiz med honning og mandelnougat. Denne pakning indeholder Toblerone-mælkechokolade – en perfekt gave til alle, som elsker chokolade. Fremstillet i Schweiz.",
+    "DESCRIPTION_KAL": "Toblerone iluarusuutigiuk, chokolade Schweiz-imeersoq pingasunik teqeqqulik, honningimik aamma qaqqortarissat nougattinik akulik. Uuma poortap imaraa Toblerone-immummik akulik – chokoladimik mamarinnittumut kimulluunniit tunissutigineqarsinnaasoq. Schweiz-imi sanaajuvoq."
+  },
+  {
+    "ITEM_NAME": "Toblerone – Almonds 360g",
+    "PRICE": 65,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Enjoy Toblerone’s smooth Milk chocolate, the iconic triangular chocolate from Switzerland with Honey and Almond Nougat. This pack contains 200g of Toblerone Milk Chocolate – a perfect gift for any chocolate lover.",
+    "DESCRIPTION_DAN": "Nyd Toblerone, den trekantformede chokolade fra Schweiz med honning og mandelnougat. Denne pakning indeholder Toblerone-mælkechokolade – en perfekt gave til alle, som elsker chokolade. Fremstillet i Schweiz.",
+    "DESCRIPTION_KAL": "Toblerone iluarusuutigiuk, chokolade Schweiz-imeersoq pingasunik teqeqqulik, honningimik aamma qaqqortarissat nougattinik akulik. Uuma poortap imaraa Toblerone-immummik akulik – chokoladimik mamarinnittumut kimulluunniit tunissutigineqarsinnaasoq. Schweiz-imi sanaajuvoq."
+  },
+  {
+    "ITEM_NAME": "Candy Box – 347g",
+    "PRICE": 79,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Candy Box containing an assortment of delicious treats. Hairibo, Smarties, Maoam, Gott&Blandat and more. This is the ideal gift for any candy lover!",
+    "DESCRIPTION_DAN": "En æske med lækkert slik i den bedste blanding til at nyde på flyrejsen og rejsemålet. Her er der noget for enhver smag! Æsken indeholder Ahlgrens biler, Haribo vingummibamser, Malaco Godt & Blandet, Maoam frugtkarameller, Nestlé Smarties, Welsch syrlig slikkepind samt Karamello dynamitstang, slikhalskæde og frugtpastiller. Æsken indeholder også et hæfte med gåder og ordspil – den perfekte underholdning.",
+    "DESCRIPTION_KAL": "Matusartoq mamakujuttunik akuukkanik mamarluartunillu imalik, angalaninni apuuffissamilu mamarsaatissat. Tamanit nerineqarsinnaapput. Matusartup imarivai Ahlgren biilit, Haribo vingummi bamsit, Malaco Mamartut aamma Akusat, Maoam kukkarnaat paarnatut mamassusillit, Nestlé Smarties, Welsch milluartakat seernartut aammalu Karamello dynamitstang, ujameq mamakujuttortalik aamma sukkuaqqat paarnasunnitsut. Matusartoq aamma atuagassamik eqqugassartalimmik oqariartaatinillu imaqarpoq – aliikkutassat ajunngilluinnartut."
+  },
+  {
+    "ITEM_NAME": "Malaco – Lagerman Konfekt, 900g",
+    "PRICE": 59,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Mixed confect candy, 900 g",
+    "DESCRIPTION_DAN": "Blandet konfekt, 900 g",
+    "DESCRIPTION_KAL": "Mamakujuit konfektit assigiinngitsut, 900 g"
+  },
+  {
+    "ITEM_NAME": "Malaco – Gott & Blandat Salt, 500g",
+    "PRICE": 39,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Mixed sour and salty liwuorice and wine- gums",
+    "DESCRIPTION_DAN": "Mixet sur -og salt lakrids og vingummi",
+    "DESCRIPTION_KAL": "Lakridsit vingummillu akuleriit, seernartut tarajornitsullu"
+  },
+  {
+    "ITEM_NAME": "OLW chips – Letsaltet, 40g",
+    "PRICE": 25,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Chips lightly salted 40 g.",
+    "DESCRIPTION_DAN": "Chips let saltet, 40 g.",
+    "DESCRIPTION_KAL": "Chipsit tarajulaakkat, 40 g"
+  },
+  {
+    "ITEM_NAME": "M&M – Peanut Party Pack, 1kg",
+    "PRICE": 119,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Peanut Party pack, 1 kg",
+    "DESCRIPTION_DAN": "chokolade Penauts , 1 kg",
+    "DESCRIPTION_KAL": "Qaqqortarissat sukkulaatillit, 1 kg"
+  },
+  {
+    "ITEM_NAME": "Haribo - Matador Mix 500g",
+    "PRICE": 45,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "A big bag of mixed fruit wine and liquorice gums. This blend is both a favourite for children and adults.",
+    "DESCRIPTION_DAN": "Klassisk og sjov blanding af Haribos bestsellere, Skandinaviens første blandingspose. Et sortiment af mørk og smagfuld lakrids – lakrids, vingummi og skum med lakridssmag og frugtgelé.",
+    "DESCRIPTION_KAL": "Haribo-miit tunisaanerpaat nalinginnaasut quiajanartullu, Skandianaviami mamakujuit akuukkat siullerpaat. Lakridsit taartut aamma mamartut akoorlugit – lakrids vingummi aamma skum lakridsisunnitsut aammalu paarnanik issortitanik akulik."
+  },
+  {
+    "ITEM_NAME": "Gott & Blandat 550g",
+    "PRICE": 39,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Malaco Gott & Blandat has a unique mix of sweet, salty and sour fruit gums. In addition to the Pineapple, Raspberry and Lemon flavours you will find sweet and salty Liquorice.",
+    "DESCRIPTION_DAN": "Den ultimative blanding af blød vingummi med frugtsmag, sød lakrids og saltlakrids. Klassisk lørdagsslik til både børn og voksne siden 1979.",
+    "DESCRIPTION_KAL": "Pinngitsoorneqarsinnaanngitsoq vingummi naatitatut mamassusilik, lakrids tungusunnittoq aamma tarajornitsoq. 1979-miilli arfininngornermi mamakujuttutornermi meeqqanit inersimasunillu nalinginnaasumik nerineqartartut."
+  },
+  {
+    "ITEM_NAME": "Anthon Berg, Sweet Moments Marzipan, 400 g",
+    "PRICE": 109,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Sweet Moments Marzipan Collection, 400 g",
+    "DESCRIPTION_DAN": "Sweet Moments Marcipan Collection, 400 g",
+    "DESCRIPTION_KAL": "Marcipan tunguarnittut katersat assigiinngitsut 400 g"
+  },
+  {
+    "ITEM_NAME": "Anton Berg, Guldæske, 400 g",
+    "PRICE": 119,
+    "CATEGORY": "Food",
+    "DESCRIPTION_ENG": "Gold box with fineste chocolate pieces, 400 g",
+    "DESCRIPTION_DAN": "Guldæske med de fineste chokolade stykker, 400 g",
+    "DESCRIPTION_KAL": "Sukkulaatiminit assigiinngitsut 400 g"
+  },
+  {
+    "ITEM_NAME": "I-CLIP",
+    "PRICE": 249,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "I-CLIP card holder",
+    "DESCRIPTION_DAN": "I-CLIP Kort holder",
+    "DESCRIPTION_KAL": "I-CLIP Kortinut toqqorsivik"
+  },
+  {
+    "ITEM_NAME": "Transonic Splitter",
+    "PRICE": 79,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Audio splitter",
+    "DESCRIPTION_DAN": "Splitter",
+    "DESCRIPTION_KAL": "Avissartitsissut"
+  },
+  {
+    "ITEM_NAME": "Bitmore Charger",
+    "PRICE": 59,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "3in1 charger",
+    "DESCRIPTION_DAN": "3i1 Oplader",
+    "DESCRIPTION_KAL": "Sarfalersuut 3-nik ikkuffilik"
+  },
+  {
+    "ITEM_NAME": "Daniel Wellington – Petite 28 Melrose RG Black",
+    "PRICE": 799,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Classic Petite Melrose, a modern classic to suit every occasion.",
+    "DESCRIPTION_DAN": "Et klassik og moderne ur som passer til enhver lejlighed",
+    "DESCRIPTION_KAL": "Nalunaarutaq nalinginnaallunilu muteerniusoq  sunut tamanut tulluartoq"
+  },
+  {
+    "ITEM_NAME": "Fossil perler - Bracelet",
+    "PRICE": 150,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "A soft bracelet made of Mosk wool with \nFossil pearls. This handmade bracelet would make a nice, unique present.",
+    "DESCRIPTION_DAN": "Moskus armbånd med Fossil perler",
+    "DESCRIPTION_KAL": "Tajaq, umimmaat meqquinik sanaaq, ujaranngorsimasunik sapangartalik."
+  },
+  {
+    "ITEM_NAME": "Isaksen Design – Set",
+    "PRICE": 699,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Jewellery set – specially designed for Air Greenland",
+    "DESCRIPTION_DAN": "Smykkesæt – speciel design til Air Greenland",
+    "DESCRIPTION_KAL": "Pinnersaatit – Air Greenlandimut immikkut ilusilersukkat"
+  },
+  {
+    "ITEM_NAME": "Børnebog – On a Spirit Journey",
+    "PRICE": 175,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "On a Spirit Journey",
+    "DESCRIPTION_DAN": "Aqipi på ånderejse",
+    "DESCRIPTION_KAL": "Anersaat silarsuaannukartoq"
+  },
+  {
+    "ITEM_NAME": "Isaksen Design - Scarf with ULO star",
+    "PRICE": 299,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Scarf with ULO star, 100% cotton",
+    "DESCRIPTION_DAN": "Tørklæde ULO star, 100% bomuld",
+    "DESCRIPTION_KAL": "Qungasequt – ULO-mik naqinnilik"
+  },
+  {
+    "ITEM_NAME": "Nuuk Couture – Hair slides",
+    "PRICE": 150,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Hair slides, 2 pieces",
+    "DESCRIPTION_DAN": "Hårspænder, 2 stk.",
+    "DESCRIPTION_KAL": "Nujarmiut, 2 stk."
+  },
+  {
+    "ITEM_NAME": "Kvann Kompagniet – Gin",
+    "PRICE": 380,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Gin with angelica, 50 cl.",
+    "DESCRIPTION_DAN": "Gin med kvan, 50 cl.",
+    "DESCRIPTION_KAL": "Gin kuannimik akulik kvan, 50 cl."
+  },
+  {
+    "ITEM_NAME": "Kvann Kompagniet – Gift box",
+    "PRICE": 225,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Gift box with Arctic angelica, sweet candy & mixed tea",
+    "DESCRIPTION_DAN": "Gaveæske med Arktisk kvan, bolcher & theblanding",
+    "DESCRIPTION_KAL": "Issittup kuannia, poortugaq, Sukkuaqqat & tiiliassat"
+  },
+  {
+    "ITEM_NAME": "Zoo Design – Bib set",
+    "PRICE": 220,
+    "CATEGORY": "Gifts",
+    "DESCRIPTION_ENG": "Bib for baby, set",
+    "DESCRIPTION_DAN": "Hagesmæk/savlesmæk/suttesnor, sæt",
+    "DESCRIPTION_KAL": "Manoqut"
+  },
+  {
+    "ITEM_NAME": "Maybelline - Lash Sensational Trio",
+    "PRICE": 169,
+    "CATEGORY": "Make-up",
+    "DESCRIPTION_ENG": "Lash Sensational® Washable Mascara. This fresh liquid formula captures lashes from root to tip for a full-fan effect. Exclusive fanning brush with ten layers of bristles reveals layers of lashes for a sensational full-fan effect.  Ophthalmologist tested.  Suitable for contact lens wearers.",
+    "DESCRIPTION_DAN": "Den første patenterede fjerbørste med seks lag børster får vipperne til at sprede sig og passe fuldstændigt til øjets konturer.",
+    "DESCRIPTION_KAL": "Børstit patenteqartut siullersaat qiviunit sanaat, arfinilinnik qallersukkanik børstitallit, qimerissat immikkoortitersinnaavaat aammalu isit ilusaannut kusanarluinnartumik tulluarsaasinnaallutik."
+  },
+  {
+    "ITEM_NAME": "Inuacare – Greenland – Qajaasat, facial créme, 50ml",
+    "PRICE": 325,
+    "CATEGORY": "Make-up",
+    "DESCRIPTION_ENG": "Organic day and nightcream, fragrance-free face cream contains oil extraction from the Greenlandic dwarf shrub labrador tea, pomegranate oil and witamines A and E.",
+    "DESCRIPTION_DAN": "Denne økologiske duftfri dag-og nat ansigtscreme indeholder olie udtræk fra dværgbusken grønlandsk post, granatæble olie og a-og E vitamin.",
+    "DESCRIPTION_KAL": "Kiinanut tarnutip uuma akuutissartaqaranilu tipigissaatitaqanngitsup akugai qajaasat aamma granatiipilit uuliaat kiisalu A aamma E-vitamin"
+  },
+  {
+    "ITEM_NAME": "Inuacare – Greenland – Kuluk eye créme, 15ml",
+    "PRICE": 225,
+    "CATEGORY": "Make-up",
+    "DESCRIPTION_ENG": "The organic mild eye cream gives eyes immediatly a lift and gently removes puffiness around your eyes.",
+    "DESCRIPTION_DAN": "Denne økologiske milde øjencreme giver øjeblikkeligt øjnene et løft og fjerner skånsomt hævelser omkring dine øjne.",
+    "DESCRIPTION_KAL": "Isinut tarnut akuutissartaqaranilu sakkukitsup isivit eqqaasa pullanneri qajassuartumik piissavai."
+  },
+  {
+    "ITEM_NAME": "Inuacare – Greenland – Asiaq, Extra care créme, 50ml",
+    "PRICE": 300,
+    "CATEGORY": "Make-up",
+    "DESCRIPTION_ENG": "Organic extra nourishing cream for very dry and irritated skin.",
+    "DESCRIPTION_DAN": "Økologisk ekstra plejende creme til meget tør og irriteret hud.",
+    "DESCRIPTION_KAL": "Tarnut amerinnarlunilu akuutissartaqanngitsoq amermut panerlunilu ungilattumut iluaqusiisoq."
+  },
+  {
+    "ITEM_NAME": "Clarins – Duo Instant lip perfector",
+    "PRICE": 209,
+    "CATEGORY": "Make-up",
+    "DESCRIPTION_ENG": "A softly textured lip gel with a deliciously sweet scent.",
+    "DESCRIPTION_DAN": "En blød læbe gloss med sød duft.",
+    "DESCRIPTION_KAL": "Siggunnut tarnut aqitsoq tipigissaatilik"
+  },
+  {
+    "ITEM_NAME": "Lipstick Queen Frog Prince",
+    "PRICE": 139,
+    "CATEGORY": "Make-up",
+    "DESCRIPTION_ENG": "Grøn læbestift som transformeres til magisk rosa farvet når den påføres.",
+    "DESCRIPTION_DAN": "Emerald green lipstick that transforms into magical rosebud upon contact with the lips.",
+    "DESCRIPTION_KAL": ""
+  },
+  {
+    "ITEM_NAME": "Egyptian Magic, 75 ml",
+    "PRICE": 199,
+    "CATEGORY": "Make-up",
+    "DESCRIPTION_ENG": "Al mulig creme lavet af seks forskellige naturlige, fugtgivende og lægende ingredienser.",
+    "DESCRIPTION_DAN": "All-purpose balm made from six of nature's most powerful moisturising and healing ingredients.",
+    "DESCRIPTION_KAL": ""
+  },
+  {
+    "ITEM_NAME": "Elizabeth Arden - Eight Hour Lip",
+    "PRICE": 99,
+    "CATEGORY": "Make-Up",
+    "DESCRIPTION_ENG": "Eight hour Lip Tin Duo, 2 x 13 ml",
+    "DESCRIPTION_DAN": "Eight hour Lip Tin Duo, 2 x 13 ml.",
+    "DESCRIPTION_KAL": "Siggunut tanngutit marlut 2 x 13 ml"
+  },
+  {
+    "ITEM_NAME": "Calvin Klein - Coffret Lady",
+    "PRICE": 339,
+    "CATEGORY": "Perfume",
+    "DESCRIPTION_ENG": "The perfect gift to indulge yourself or others. Ideal for the sophisticated Calvin Klein women. This deluxe coffret is a collection of Calvin Klein‘s best-selling fragrances in the perfect travel size, Individually packed.",
+    "DESCRIPTION_DAN": "ck one EdT 10 ml, euphoria EdP 4 ml, ck2 EdT 10 ml, endless euphoria EdP 5 ml og Eternity EdP 5 ml.",
+    "DESCRIPTION_KAL": "ck one EdT 10 ml, euphoria EdP 4 ml, ck2 EdT 10 ml, endless euphoria EdP 5 ml og Eternity EdP 5 ml."
+  },
+  {
+    "ITEM_NAME": "Calvin Klein - Coffret Man",
+    "PRICE": 339,
+    "CATEGORY": "Perfume",
+    "DESCRIPTION_ENG": "The perfect gift to indulge yourself or others. Ideal for the modern Calvin Klein men. This deluxe coffret is a collection of Calvin Klein‘s best-selling fragrances in the perfect travel size, Individually packed.",
+    "DESCRIPTION_DAN": "Euphoria men, ck one, Eternity for men, ck2 og ck free.",
+    "DESCRIPTION_KAL": "Euphoria men, ck one, Eternity for men, ck2 og ck free."
+  },
+  {
+    "ITEM_NAME": "Elizabeth Arden - White Tea Edition 100ml",
+    "PRICE": 289,
+    "CATEGORY": "Perfume",
+    "DESCRIPTION_ENG": "Elizabeth Arden White Tea is inspired by the simple pleasure that accompanies the first sip of tea. Exquisitely uncomplicated, this fragrance invites you to revel in the moment. A musky-woody floral, it preludes with sparkling Italian Mandarin and sensual Sea Breeze Accord. For the woman who wants to immerse herself in the moment.",
+    "DESCRIPTION_DAN": "Find din stund. Ren. Udsøgt. Ukompliceret. Inspirationen til Elizabeth Arden White Tea kommer fra den enkle glæde ved den første mundfuld te. Et blomstervæld med indslag af moskus og træ. Det beskriver denne duft, som på en harmonisk måde blander italiensk mandarin, toner af havbrise, ekstrakt fra hvid te, damascenerrose, madrastræ og en trio af beroligende moskusdufte frem til den skønne finale.",
+    "DESCRIPTION_KAL": "Piffissaqarfigiuk. Pitsavik. Piuminartoq. Akoqanngitsoq. Elizabeth Arden White Tea, najorsinerup siulliup najuunnerani iluarusunnermik malunnaateqarpoq. Naasut tikki moskus aamma qisuk ilanngullugit. Tassa tikka imatut nassuiarneqarpoq, italiamiit mandarina, imarsunnialaaq, te qaqortup tikka, damascenerrose, madrastræ aammalu moskus tikki pingasut eqqissisimanartut naggataatigut nuannersumik misigissallugit."
+  },
+  {
+    "ITEM_NAME": "Hugo Boss – Bottled Unlimited EDT + deo",
+    "PRICE": 439,
+    "CATEGORY": "Perfume",
+    "DESCRIPTION_ENG": "The BOSS man is primed to succeed – competitive, driven and ambitious. His daily preparation rituals are integral to his personal quest for success and BOSS Bottled has become an established part of his daily armour. This set includes a 50ml bottle and accompanying 75ml deostick.",
+    "DESCRIPTION_DAN": "Moderne, livsbekræftende og tryg. Frisk grøn med sensuelle noter, symbolsk for mange moderne interesser.",
+    "DESCRIPTION_KAL": "Nutaaliaq, inuummarinnartoq aamma toqqissisimanartoq. Qorsooqqissoq nutaaq, misikkarissoq, soqutigisat nutaalianut ilisarnaat."
+  },
+  {
+    "ITEM_NAME": "Air Greenland - Buffs",
+    "PRICE": 150,
+    "CATEGORY": "Souvenirs",
+    "DESCRIPTION_ENG": "If looking cool in the sun is your thing then High UV Protection BUFF® could be just what you’re after – airgreenland designs in Coolmax® Extreme fabric for superior wicking performance and at least 95% UV protection.",
+    "DESCRIPTION_DAN": "Air Greenland Buffs - original version",
+    "DESCRIPTION_KAL": "Air Greenland Buffs – qungasequt Air Greenlandip nammineq pia"
+  },
+  {
+    "ITEM_NAME": "Air Greenland - Playing Cards",
+    "PRICE": 30,
+    "CATEGORY": "Souvenirs",
+    "DESCRIPTION_ENG": "Containing 1 deck, playing cards made of 300 gr/sqm cardboard and are customised with an airgreenland plane and logo. This would make a great souvenir or gift for someone.",
+    "DESCRIPTION_DAN": "Air Greenland spillekort",
+    "DESCRIPTION_KAL": "Air Greenland nallukattat"
+  },
+  {
+    "ITEM_NAME": "Air Greenland - Model A330 Plane 13cm",
+    "PRICE": 160,
+    "CATEGORY": "Souvenirs",
+    "DESCRIPTION_ENG": "This model of an A330 Airgreenland plane would make a great souvenir or gift. It is a 13 cm long plastic construction with highly detailed graphics. Also includes a display stand.",
+    "DESCRIPTION_DAN": "Air Greenland  - Lille modelfly af A330 - 13 cm",
+    "DESCRIPTION_KAL": "Air Greenland timmisartuaraq A330 – 13 cm"
+  },
+  {
+    "ITEM_NAME": "Air Greenland - Inflatable Aircraft 50cm",
+    "PRICE": 35,
+    "CATEGORY": "Souvenirs",
+    "DESCRIPTION_ENG": "This 50cm long inflatable plastic Airgreenland aircraft guarantees plenty of fun at the beach or swimming pool. This would make a great souvenir or gift.",
+    "DESCRIPTION_DAN": "Air Greenland oppustelig flyvemaskine - 50 cm",
+    "DESCRIPTION_KAL": "Air Greenland timmisartoq pullattagaq - 50 cm"
+  },
+  {
+    "ITEM_NAME": "Air Greenland – Luggage Strap",
+    "PRICE": 55,
+    "CATEGORY": "Souvenirs",
+    "DESCRIPTION_ENG": "Luggage strap",
+    "DESCRIPTION_DAN": "Kuffert strop",
+    "DESCRIPTION_KAL": "Kuffertimut nammaataq"
+  },
+  {
+    "ITEM_NAME": "Prince Rounded Taste 1 Carton",
+    "PRICE": 295,
+    "CATEGORY": "Tobacco",
+    "DESCRIPTION_ENG": "Quality cigarettes at an affordable price.",
+    "DESCRIPTION_DAN": "Kvalitets cigaretter til en god pris",
+    "DESCRIPTION_KAL": "Cigarettit pitsassuit, akiminut naleqquttut"
+  },
+  {
+    "ITEM_NAME": "Prince Rich Taste, 1 Carton",
+    "PRICE": 295,
+    "CATEGORY": "Tobacco",
+    "DESCRIPTION_ENG": "Quality cigarettes at an affordable price.",
+    "DESCRIPTION_DAN": "Kvalitets cigaretter til en god pris",
+    "DESCRIPTION_KAL": "Cigarettit pitsassuit, akiminut naleqquttut"
+  },
+  {
+    "ITEM_NAME": "General – Cut Original",
+    "PRICE": 169,
+    "CATEGORY": "Tobacco",
+    "DESCRIPTION_ENG": "Cut Original, 5x18 g",
+    "DESCRIPTION_DAN": "Cut Original, 5 x 18 g",
+    "DESCRIPTION_KAL": "Cut Original-eq 5 x 18 g"
+  }
+]
