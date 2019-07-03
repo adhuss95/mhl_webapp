@@ -6,16 +6,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  <script src="app.js"></script>
   <script src="movies.js"></script>
+  <script src="app.js"></script>
+  <script src="saveinexcel.js"></script>
   <script src="apps.js"></script>
   <script src="music.js"></script>
   <script src="magazine.js"></script>
+  <script src="shopping.js"></script>
 
 
   </head>
@@ -24,7 +26,7 @@
       <header>
 
          <div class="logo">
-         <img src = "myth.jpeg" alt="Aircraft logo">
+         <img src = "logo.png" alt="Aircraft logo">
         </div>  
         
        <div  class="heading">
@@ -40,7 +42,7 @@
 
         <div class="article" id="artcle">
             <button class="btn btn-primary" onclick="Infofunction()">Create Content Cycle</button>
-            <button class="btn btn-primary">View Content Cycle</button>
+            <button class="btn btn-primary" onclick="window.location.href = 'view-content.html'">View Content Cycle</button>
            
         </div>
         <div class="form" id="forms">
@@ -93,7 +95,8 @@
 
         <div class="tables" id="Movie">
                 <!-- //MOVIES TABLE -->
-                <button id=add-row class="glyphicon glyphicon-plus-sign" onclick="appendRow_movies()"></button>
+                
+                <button id=add-row  onclick="appendRow_movies()">Add Row</button>
                 <table id="movies" align="center">
                         <thead class="thead-dark">
                 
@@ -129,8 +132,10 @@
                             </tr> -->
                 
                         </tbody>
+                      
                       </table>
-                      <button id="finish">Apply & Submit</button>
+                      
+                      <button onclick="exportTableToExcel('movies','SDS_March')" id="finish">Apply & Submit</button>
                     </div>
 
 
@@ -163,7 +168,7 @@
                 
                         </tbody>
                       </table>
-                      <button id="finish">Apply & Submit</button>
+                      <button id="finish" onclick="exportTableToExcel('apps','SDS_March')">Apply & Submit</button>
                        </div>
 
 
@@ -196,7 +201,7 @@
                 
                         </tbody>
                       </table>
-                      <button id="finish">Apply & Submit</button>
+                      <button id="finish" onclick="exportTableToExcel('music','SDS_March')">Apply & Submit</button>
                       </div>
 
                       <!-- MAGAZINE TABLE -->
@@ -232,7 +237,7 @@
                         </tbody>
                       </table>
 
-                      <button id="finish">Apply & Submit</button>
+                      <button id="finish" onclick="exportTableToExcel('magazine','SDS_March')">Apply & Submit</button>
                       </div>
 
                       <!-- SHOPPING TABLE -->
@@ -264,7 +269,7 @@
                         </tbody>
                       </table>
 
-                      <button id="finish">Apply & Submit</button>
+                      <button id="finish" onclick="exportTableToExcel('shopping','SDS_March')">Apply & Submit</button>
         </div>
 <!-- 
         <button id="finish">Apply & Submit</button> -->
@@ -273,4 +278,11 @@
         
   </body>
   </html>
+
+  <script>
+  $(".dropdown-menu li a").click(function(){
+    $(this).parents(".dropdown").find('.btn').html($(this).text() + ' <span class="caret"></span>');
+    
+  });
+  </script>
 

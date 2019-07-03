@@ -24,11 +24,13 @@ else{
 }
 }
 
-function dropdownList()
-{
-    var selected = document.getElementById("dropdown-menu-select").value;
-    console.log(selected);
-}
+
+// function dropdownList()
+// {
+//     var selected = document.getElementById("dropdown-menu-select");
+//     var result = selected.nodeValue;
+//     alert(result);
+// }
 
 function Infofunction()
 {
@@ -113,7 +115,10 @@ function createCell(cell,style) {
     div.setAttribute('class', style);        // set DIV class attribute
     div.setAttribute('className', style);    // set DIV class attribute for IE (?!)
     cell.appendChild(div);
-    cell.style.width =  '50px';
-    cell.style.height = '30px';                // append DIV to the table cell
-    cell.style.paddingLeft="15px" ;
+    cell.style.maxWidth =  '50px';
+    cell.style.maxHeight = '30px'; 
+    cell.style.padding = '15px';               // append DIV to the table cell
+    cell.style.overflow='hidden' ;
 }
+
+
